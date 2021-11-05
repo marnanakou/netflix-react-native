@@ -7,10 +7,10 @@ interface HomeCategoryProps {
     category: {
         id:string,
         title:string,
-        movies: [
+        movies: {
             id: string,
             poster:string,
-        ]
+        }[]
     }
 }
 
