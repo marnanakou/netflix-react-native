@@ -26,7 +26,7 @@ export default {
                     poster: 'https://notjustdev-dummy.s3.us-east-2.amazonaws.com/netflix/ep1.jpg',
                     duration: '43m',
                     plot: 'An open-and-shut case becomes anything but when Harvey is accused of an inappropriate dalliance with a married woman.',
-                    video: 'http://d23dyxeqlo5psv.cloudfront.net/big_buck_bunny.mp4',
+                    video: 'http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerFun.mp4',
                 }]
             }
         }, {
