@@ -66,7 +66,7 @@ function BottomTabNavigator() {
       }}>
       <BottomTab.Screen
         name="Home"
-        component={MovieDetailsScreen}
+        component={HomeScreen}
         options={{
           headerShown:false,
           tabBarIcon: ({ color }) => <AntDesign name="home" size={24} color={color}/>,
